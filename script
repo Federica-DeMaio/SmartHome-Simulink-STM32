@@ -1,0 +1,11 @@
+config load "C:\Users\feder\Downloads\Progetto_Embedded_Gruppo11\Progetto_Embedded_Gruppo11\ProvaMenuConfig.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\feder\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+config save C:\Users\feder\Downloads\Progetto_Embedded_Gruppo11\Progetto_Embedded_Gruppo11\ProvaMenuConfig.ioc
+
+
+exit wait

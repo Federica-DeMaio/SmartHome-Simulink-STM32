@@ -1,0 +1,16 @@
+# File temporanei STM32CubeMX
+*.ioctmp
+*.ioctmprsv
+*.bak
+
+# Cartelle di compilazione STM32CubeIDE (PESANTISSIME)
+Debug/
+Release/
+*.launch
+.metadata/
+
+# File temporanei MATLAB / Simulink
+slprj/
+*.slxc
+*.asv
+*.autosave
